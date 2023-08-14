@@ -1,0 +1,21 @@
+Colecao de livros:
+
+Livro 1:
+	Titulo: l1
+	Autor: a1
+	Preco: R$12.00
+	Paginas: 132
+
+Livro 2:
+	Titulo: l2
+	Autor: a1
+	Preco: R$19.99
+	Paginas: 135
+
+Livro 3:
+	Titulo: l3
+	Autor: a2
+	Preco: R$54.55
+	Paginas: 650
+
+More books to come!
